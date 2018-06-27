@@ -1,6 +1,6 @@
 {
   "name": "mywebapp",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "My first Node.js app",
   "main": "main.js",
   "scripts": {
@@ -12,9 +12,7 @@
   },
   "keywords": [
     "example",
-    "node",
-    "js",
-    "app"
+    "node"
   ],
   "author": "Dean Gjedde",
   "license": "MIT",
@@ -23,6 +21,7 @@
   },
   "homepage": "https://github.com/deusletum/MyWebApp#readme",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "showdown": "^1.8.6"
   }
 }
