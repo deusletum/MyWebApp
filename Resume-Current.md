@@ -7,11 +7,11 @@ Seattle, WA
 
 ## **SUMMARY OF QUALIFICATIONS**
 
-        · Over 20 years professional experience in Information Technology encompassing all areas of the field including software development, testing and systems administration
-        · Proven ability to hire, train, lead and motivate a highly skilled team of professionals
-        · Positive, incredibly reliable and dedicated to a quality performance
-        · Exceptional communication skills and ability to relay complex technical information to stakeholders at all levels of the organization
-        · Ability to work in high pressure/fast paced environments under strict deadlines
+    · Over 20 years professional experience in Information Technology encompassing all areas of the field including software development, testing and systems administration
+    · Proven ability to hire, train, lead and motivate a highly skilled team of professionals
+    · Positive, incredibly reliable and dedicated to a quality performance
+    · Exceptional communication skills and ability to relay complex technical information to stakeholders at all levels of the organization
+    · Ability to work in high pressure/fast paced environments under strict deadlines
 
 ## **PROFESSIONAL EXPERIENCE**
 
