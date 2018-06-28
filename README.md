@@ -11,5 +11,7 @@
 * Get a basic web app working with Express - Done
 * Convert resume to markdown and use showdown to display it - Done
 * Get CSS dart theme workings - Done
-* Get OpenShift deployment working - In progress
+* Get OpenShift deployment working - Done
 * Get export as word or pdf working - In progress
+
+## Example site located at [https://goo.gl/9Eiuu2](https://goo.gl/9Eiuu2)
