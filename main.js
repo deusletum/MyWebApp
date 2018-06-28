@@ -11,7 +11,7 @@ fs.readFile('Resume-Current.md', 'utf8', (err,data) => {
   const app = express();
   app.get('/', (req, res) => {
     res.send(html);
-    //console.log(html)
+    console.log(html)
   });
   app.listen(3000);
 });
